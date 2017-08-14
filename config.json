@@ -1,0 +1,13 @@
+{
+  "environment": "live",
+  "Ethereum": {
+    "dev": {
+      "rpc": "http://127.0.0.1:8545",
+      "account": "0x1a9f132598208784a7b979a0b15439b005d45fb8"
+    },
+    "live": {
+      "rpc": "http://40.117.197.50:8545",
+      "account": "0xDd0BB0e2a1594240fED0c2f2c17C1E9AB4F87126"
+    }
+  }
+}

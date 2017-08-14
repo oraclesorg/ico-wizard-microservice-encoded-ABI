@@ -1,0 +1,23 @@
+{
+  "name": "ico-wizard-encoded-abi",
+  "version": "1.0.0",
+  "description": "Oracles ICO wizard microservice for getting of encoded abi",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oraclesorg/ico-wizard-microservice-encoded-ABI"
+  },
+  "engine": {
+    "node": "6.11.2"
+  },
+  "author": "Oracles",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "web3": "^1.0.0-beta.18"
+  }
+}
